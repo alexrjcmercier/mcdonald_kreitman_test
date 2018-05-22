@@ -1,0 +1,64 @@
+Phenylalanine	Phe	F		T	T	T
+Phenylalanine	Phe	F		T	T	C
+Leucine	Leu	L		T	T	A
+Leucine	Leu	L	M	T	T	G
+Serine	Ser	S		T	C	T
+Serine	Ser	S		T	C	C
+Serine	Ser	S		T	C	A
+Serine	Ser	S		T	C	G
+Tyrosine	Tyr	Y		T	A	T
+Tyrosine	Tyr	Y		T	A	C
+STOP	STP	*	*	T	A	A
+STOP	STP	*	*	T	A	G
+Cysteine	Cys	C		T	G	T
+Cysteine	Cys	C		T	G	C
+STOP	STP	*	*	T	G	A
+Tryptophane	Trp	W		T	G	G
+Leucine	Leu	L		C	T	T
+Leucine	Leu	L		C	T	C
+Leucine	Leu	L		C	T	A
+Leucine	Leu	L	M	C	T	G
+Proline	Pro	P		C	C	T
+Proline	Pro	P		C	C	C
+Proline	Pro	P		C	C	A
+Proline	Pro	P		C	C	G
+Histidine	His	H		C	A	T
+Histidine	His	H		C	A	C
+Glutamine	Gln	Q		C	A	A
+Glutamine	Gln	Q		C	A	G
+Arginine	Arg	R		C	G	T
+Arginine	Arg	R		C	G	C
+Arginine	Arg	R		C	G	A
+Arginine	Arg	R		C	G	G
+Isoleucine	Ile	I		A	T	T
+Isoleucine	Ile	I		A	T	C
+Isoleucine	Ile	I		A	T	A
+Methionine	Met	M	M	A	T	G
+Threonine	Thr	T		A	C	T
+Threonine	Thr	T		A	C	C
+Threonine	Thr	T		A	C	A
+Threonine	Thr	T		A	C	G
+Asparagine	Asn	N		A	A	T
+Asparagine	Asn	N		A	A	C
+Lysine	Lys	K		A	A	A
+Lysine	Lys	K		A	A	G
+Serine	Ser	S		A	G	T
+Serine	Ser	S		A	G	C
+Arginine	Arg	R		A	G	A
+Arginine	Arg	R		A	G	G
+Valine	Val	V		G	T	T
+Valine	Val	V		G	T	C
+Valine	Val	V		G	T	A
+Valine	Val	V		G	T	G
+Alanine	Ala	A		G	C	T
+Alanine	Ala	A		G	C	C
+Alanine	Ala	A		G	C	A
+Alanine	Ala	A		G	C	G
+Acide aspartique	Asp	D		G	A	T
+Acide aspartique	Asp	D		G	A	C
+Acide glutamique	Glu	E		G	A	A
+Acide glutamique	Glu	E		G	A	G
+Glycine	Gly	G		G	G	T
+Glycine	Gly	G		G	G	C
+Glycine	Gly	G		G	G	A
+Glycine	Gly	G		G	G	G
