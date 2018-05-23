@@ -1,3 +1,4 @@
+#coding:utf-8
 #!/bin/env python2.7
 #This python script written for python 2.7.x (should still be compatible with older distributions though) generates a McDonald-Kreitman Test table to be used with SnIPRE, with the values of Ps, Pn, Ds, Dn plus a simple MK Test with no correction and a Pn/Ps column for reference to an older test. It handles recusrively as many files as there is in the given directory.
 #It requires a genetic code tabulated text file and a multi FASTA file for each gene, with sequences of this gene for every individual as well as its appartenance to a group (@1 or @2), the groups will be indentified as principal or outgroup based on the number of individuals (the ougroup need to be restricted to only 1 individual).
