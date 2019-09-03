@@ -1,4 +1,4 @@
-# mcdonald_kreitman
+# mcdonald_kreitman_test
 Python script to run a McDonald-Kreitman test on one or a set of genes (one .fasta multi-alignment file per gene) inside a provided folder.
 
 /!\ beware, this script is the very first project python I've worked on, and as such is quite old and dirty.
